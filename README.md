@@ -27,7 +27,7 @@
 这里用于书写论文的总体介绍，并且可以在下面附带图片。这里提供一些标题中可以添加和用到的图标：📖 ⚙️ 🔧 📁 📄 📧 🥰 🔗 📝 🧠 ✨ 🏗️ 📦 🔄 📊 🎬 🛠️ 💾 ⭐ 🙏 🎉 🚀 🔑 💡 🧰 ...
 
 
-<p align="center"><img src="figs/method.png" width="95%"></p>
+<p align="center"><img src="method.png" width="50%"></p>
 
 
 ## ⚙️ Setup
