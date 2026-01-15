@@ -31,7 +31,7 @@
 
 
 ## ⚙️ Setup
-这里是setup部分用于部署环境，下载代码或数据等准备操作
+这里是setup部分用于部署环境，下载代码或数据等准备操作。
 ```bash
 conda create --name xxx python==3.11
 conda activate xxx
@@ -47,7 +47,7 @@ pip install -r requirement.txt
 
 ### 1. 数据集构建
 
-你可以在[这里](https://github.com/RUC-NLPIR/FlashRAG/blob/main/docs/original_docs/process-wiki.md)下载数据集.
+你可以在[这里](https://github.com/RUC-NLPIR/FlashRAG/blob/main/docs/original_docs/process-wiki.md)下载数据集。
 
 ### 2. 处理数据
 
@@ -76,7 +76,7 @@ xxx/
 ```
 
 ## 📄 Acknowledgement 
-Acknowledgement, 介绍你参考的仓库或者代码，例如UltraRAG
+Acknowledgement, 介绍你参考的仓库或者代码，例如UltraRAG。
 
 - [UltraRAG](https://github.com/OpenBMB/UltraRAG)
 
