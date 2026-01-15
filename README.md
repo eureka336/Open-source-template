@@ -62,7 +62,7 @@ bash scripts/xxx.sh
 #### 2.2. ...
 
 ## 📁 Repository Structure/Dataset Structure
-这里可以用于介绍仓库的结构，或者下载的比较复杂的数据集的结构，位置可以灵活调整。
+这里可以用于介绍仓库的结构，或者比较复杂的数据集的结构，位置可以灵活调整。
 ```
 xxx/
 ├── README.md
